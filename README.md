@@ -50,7 +50,7 @@ This project is open-source and licensed under the MIT License.
 Feel free to submit issues or pull requests to improve this tool!
 
 ## Author
-[Prem Nayak]
-[Phanindra Singarapu]
+-[Prem Nayak]
+-[Phanindra Singarapu]
 
 
